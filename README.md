@@ -1,5 +1,5 @@
 # Awesome services for mobile development and marketing
-Awesome instruments for mobile marketing and development
+Instruments, services and companies for mobile marketing and development
 
 ## Marketing tools
 
@@ -30,7 +30,7 @@ Awesome instruments for mobile marketing and development
 
 ### App Reviews
 
-* [AppCoins](http://appcoins.mobi/developers.html)
+* [AppCoins](http://appcoins.mobi)
 * [AppStars](http://appstars.ru/)
 * [AppTools](http://www.apptools.ru/)
 * [Few Reviews](http://fewreview.com/)
@@ -40,7 +40,10 @@ Awesome instruments for mobile marketing and development
 ### Traffic
 
 * [AppBooster](http://appbooster.ru)
+* [AppCent](http://appcent.ru)
+* [AppsCoins](http://appscoins.com)
 * [AppFlow](http://appflow.ru)
+* [Appia](http://www.appia.com)
 * [Cowall](http://cowall.info/)
 * [UpTop](http://uptop.pro)
 * [WakeApp](https://wakeapp.ru/ru/)
