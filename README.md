@@ -52,3 +52,11 @@ Awesome instruments for mobile marketing and development
 
 * [Paypal](http://paypal.com)
 * [Stripe](http://stripe.com)
+
+## Other Awesome Lists
+
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+
+## Contributing
+
+Your contributions are always welcome! Please submit a pull request or create an issue to add a new service, tools, blog or software to the list. Do not submit a project, which hasn't been updated in the past 6 months or is not awesome.
