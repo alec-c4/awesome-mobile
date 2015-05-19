@@ -11,6 +11,7 @@ Awesome instruments for mobile marketing and development
 * [Flurry](http://www.flurry.com/)
 * [Game Analytics](http://www.gameanalytics.com/)
 * [Google Analytics](https://www.google.ru/analytics/)
+* [Heap Analytics](https://heapanalytics.com)
 * [InstallTracker](http://installtracker.com)
 * [kissmetrics](http://kissmetrics.com/)
 * [Localytics](http://localytics.com)
@@ -25,6 +26,7 @@ Awesome instruments for mobile marketing and development
 * [AppsFlyer](http://www.appsflyer.com)
 * [DevToDev](https://www.devtodev.com/)
 * [MobileAppTracking](http://www.mobileapptracking.com)
+* [TapStream](https://tapstream.com)
 
 ### App Reviews
 
@@ -37,8 +39,12 @@ Awesome instruments for mobile marketing and development
 
 ### Traffic
 
+* [AppBooster](http://appbooster.ru)
 * [AppFlow](http://appflow.ru)
 * [Cowall](http://cowall.info/)
+* [UpTop](http://uptop.pro)
+* [WakeApp](https://wakeapp.ru/ru/)
+
 
 ## Development Tools
 
@@ -47,6 +53,10 @@ Awesome instruments for mobile marketing and development
 * [BugSnag](http://bugsnag.com)
 * [Critercism](http://www.crittercism.com/)
 * [Fabric](http://fabric.io)
+
+### Push
+
+* [InAppBlast](https://www.inappblast.com)
 
 ### Payments
 
