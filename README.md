@@ -21,3 +21,12 @@ Awesome instruments for mobile marketing and development
 * [AppsFlyer](http://www.appsflyer.com)
 * [MobileAppTracking](http://www.mobileapptracking.com)
 * [Adjust](https://www.adjust.com)
+
+## App Reviews
+
+* [Few Reviews](http://fewreview.com/)
+* [AppStars](http://appstars.ru/)
+* [ShellBack Mobile](http://shellbackmobile.com/)
+* [AppTools](http://www.apptools.ru/)
+* [AppCoins](http://appcoins.mobi/developers.html)
+* [Top4App](http://top4app.com/)
