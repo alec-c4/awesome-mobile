@@ -40,15 +40,15 @@ Awesome instruments for mobile marketing and development
 * [AppFlow](http://appflow.ru)
 * [Cowall](http://cowall.info/)
 
-### Development Tools
+## Development Tools
 
-## Errors tracking
+### Errors tracking
 
 * [BugSnag](http://bugsnag.com)
 * [Critercism](http://www.crittercism.com/)
 * [Fabric](http://fabric.io)
 
-## Payments
+### Payments
 
 * [Paypal](http://paypal.com)
 * [Stripe](http://stripe.com)
