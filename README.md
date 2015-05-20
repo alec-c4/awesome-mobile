@@ -53,6 +53,11 @@ Instruments, services and companies for mobile marketing and development
 * [ShellBack Mobile](http://shellbackmobile.com/)
 * [Top4App](http://top4app.com/)
 
+### Review monitoring
+
+* [Appfollow](http://appfollow.ru)
+* [LaunchKit](https://launchkit.io)
+
 ### Traffic
 
 * [AppBooster](http://appbooster.ru)
