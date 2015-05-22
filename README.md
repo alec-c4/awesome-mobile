@@ -44,6 +44,7 @@ Instruments, services and companies for mobile marketing and development
 * [MobileAppTracking](http://www.mobileapptracking.com)
 * [TapStream](https://tapstream.com)
 * [Urban Airship](http://urbanairship.com)
+* [SplitMetrics](http://splitmetrics.com/)
 
 ### App Reviews
 
