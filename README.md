@@ -40,6 +40,7 @@ Instruments, services and companies for mobile marketing and development
 * [DevToDev](https://www.devtodev.com/)
 * [Jeapie](https://jeapie.com)
 * [Kahuna](https://www.kahuna.com)
+* [MetricsCat](http://www.metricscat.net)
 * [MobileAppTracking](http://www.mobileapptracking.com)
 * [TapStream](https://tapstream.com)
 * [Urban Airship](http://urbanairship.com)
