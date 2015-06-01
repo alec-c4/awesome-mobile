@@ -79,6 +79,7 @@ Instruments, services and companies for mobile marketing and development
 * [BugSnag](http://bugsnag.com)
 * [Critercism](http://www.crittercism.com/)
 * [Fabric](http://fabric.io)
+* [Acra](https://github.com/ACRA/acra)
 
 ### Push
 
