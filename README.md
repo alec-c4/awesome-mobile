@@ -3,6 +3,12 @@ Instruments, services and companies for mobile marketing and development
 
 ## Marketing tools
 
+### A/B Testing
+
+* [OneTwoSplit](http://onetwosplit.com/)
+* [SplitMetrics](http://splitmetrics.com/)
+
+
 ### Analytics
 
 * [AppSee](http://www.appsee.com/)
@@ -15,6 +21,7 @@ Instruments, services and companies for mobile marketing and development
 * [InstallTracker](http://installtracker.com)
 * [kissmetrics](http://kissmetrics.com/)
 * [Localytics](http://localytics.com)
+* [MetricsCat](http://metricscat.net/)
 * [Mixpanel](http://mixpanel.com)
 * [Upsight](http://www.upsight.com)
 * [Yandex AppMetrika](http://appmetrika.yandex.ru/)
@@ -25,6 +32,7 @@ Instruments, services and companies for mobile marketing and development
 * [AppBoy](https://www.appboy.com)
 * [AppOptim](http://www.appoptim.com/)
 * [AppsFire](http://appsfire.com)
+* [EveryAds](http://www.everyads.com/)
 
 ### InApp games
 
@@ -38,10 +46,12 @@ Instruments, services and companies for mobile marketing and development
 * [AppsFlyer](http://www.appsflyer.com)
 * [DeltaDNA](http://www.deltadna.com)
 * [DevToDev](https://www.devtodev.com/)
+* [Dispply](http://dispply.com/)
 * [Jeapie](https://jeapie.com)
 * [Kahuna](https://www.kahuna.com)
 * [MetricsCat](http://www.metricscat.net)
 * [MobileAppTracking](http://www.mobileapptracking.com)
+* [Mobio](http://mobioinc.com)
 * [TapStream](https://tapstream.com)
 * [Urban Airship](http://urbanairship.com)
 * [SplitMetrics](http://splitmetrics.com/)
@@ -62,6 +72,7 @@ Instruments, services and companies for mobile marketing and development
 
 ### Traffic
 
+* [Appat](http://appat.co)
 * [AppBooster](http://appbooster.ru)
 * [AppCent](http://appcent.ru)
 * [AppsCoins](http://appscoins.com)
@@ -89,6 +100,7 @@ Instruments, services and companies for mobile marketing and development
 * [Parse](https://parse.com)
 * [Pubnub](http://www.pubnub.com)
 * [Pusher](https://pusher.com)
+* [PushWoosh](https://www.pushwoosh.com)
  
 ### Voice and video calls, messaging
 
