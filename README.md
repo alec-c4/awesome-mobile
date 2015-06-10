@@ -21,7 +21,6 @@ Instruments, services and companies for mobile marketing and development
 * [InstallTracker](http://installtracker.com)
 * [kissmetrics](http://kissmetrics.com/)
 * [Localytics](http://localytics.com)
-* [MetricsCat](http://metricscat.net/)
 * [Mixpanel](http://mixpanel.com)
 * [Upsight](http://www.upsight.com)
 * [Yandex AppMetrika](http://appmetrika.yandex.ru/)
