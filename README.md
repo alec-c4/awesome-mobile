@@ -90,6 +90,7 @@ Instruments, services and companies for mobile marketing and development
 * [BugSnag](http://bugsnag.com)
 * [Critercism](http://www.crittercism.com/)
 * [Fabric](http://fabric.io)
+* [Lookback](http://lookback.io) - video recording for mobile device screen
 * [Test Fairy](https://www.testfairy.com/)
 
 ### Push
