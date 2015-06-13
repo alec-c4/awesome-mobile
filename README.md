@@ -110,6 +110,21 @@ Instruments, services and companies for mobile marketing and development
 
 * [Paypal](http://paypal.com)
 * [Stripe](http://stripe.com)
+ 
+## Podcasts
+
+### Russian podcasts
+
+* [App in Top](https://itunes.apple.com/ru/podcast/appintop-prodvizenie-mobil/id882670965)
+* [AppTractor](https://itunes.apple.com/ru/podcast/apptractor/id908041901)
+
+### English podcasts
+
+* [App in Top - mobile app marketing](https://itunes.apple.com/ru/podcast/appintop-mobile-app-marketing/id884500433)
+* [iDeveloper](https://itunes.apple.com/ru/podcast/the-ideveloper-podcast/id400664935)
+* [NSBrief](https://itunes.apple.com/ru/podcast/nsbrief/id399822861)
+* [raywenderlich.com](https://itunes.apple.com/ru/podcast/raywenderlich.com-podcast/id773910890)
+
 
 ## TODO
 
