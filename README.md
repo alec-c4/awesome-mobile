@@ -22,6 +22,7 @@ Instruments, services and companies for mobile marketing and development
 * [kissmetrics](http://kissmetrics.com/)
 * [Localytics](http://localytics.com)
 * [Mixpanel](http://mixpanel.com)
+* [MetricsCat](http://metricscat.com)
 * [Upsight](http://www.upsight.com)
 * [Yandex AppMetrika](http://appmetrika.yandex.ru/)
 
@@ -48,7 +49,7 @@ Instruments, services and companies for mobile marketing and development
 * [Dispply](http://dispply.com/)
 * [Jeapie](https://jeapie.com)
 * [Kahuna](https://www.kahuna.com)
-* [MetricsCat](http://www.metricscat.net)
+* [MetricsCat](http://metricscat.com)
 * [MobileAppTracking](http://www.mobileapptracking.com)
 * [Mobio](http://mobioinc.com)
 * [TapStream](https://tapstream.com)
@@ -61,6 +62,7 @@ Instruments, services and companies for mobile marketing and development
 * [AppStars](http://appstars.ru/)
 * [AppTools](http://www.apptools.ru/)
 * [Few Reviews](http://fewreview.com/)
+* [MetricsCat](http://metricscat.com)
 * [ShellBack Mobile](http://shellbackmobile.com/)
 * [Top4App](http://top4app.com/)
 
@@ -68,6 +70,7 @@ Instruments, services and companies for mobile marketing and development
 
 * [Appfollow](http://appfollow.ru)
 * [LaunchKit](https://launchkit.io)
+* [MetricsCat](http://metricscat.com)
 
 ### Traffic
 
