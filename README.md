@@ -32,6 +32,7 @@ Instruments, services and companies for mobile marketing and development
 * [AppOptim](http://www.appoptim.com/)
 * [AppsFire](http://appsfire.com)
 * [EveryAds](http://www.everyads.com/)
+* [StartApp](http://startapp.com)
 
 ### InApp games
 
