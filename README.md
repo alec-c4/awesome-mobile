@@ -129,6 +129,9 @@ Instruments, services and companies for mobile marketing and development
 * [iDeveloper](https://itunes.apple.com/ru/podcast/the-ideveloper-podcast/id400664935)
 * [NSBrief](https://itunes.apple.com/ru/podcast/nsbrief/id399822861)
 * [raywenderlich.com](https://itunes.apple.com/ru/podcast/raywenderlich.com-podcast/id773910890)
+* [fragmented](http://fragmentedpodcast.com/)
+* [Android Developers Backstage](http://androidbackstage.blogspot.in/)
+* [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
 
 ## TODO
