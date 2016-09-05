@@ -122,6 +122,7 @@ Instruments, services and companies for mobile marketing and development
 
 * [App in Top](https://itunes.apple.com/ru/podcast/appintop-prodvizenie-mobil/id882670965)
 * [AppTractor](https://itunes.apple.com/ru/podcast/apptractor/id908041901)
+* [Android Dev Подкаст](https://itunes.apple.com/ru/podcast/android-dev-podkast/id1076856310)
 
 ### English podcasts
 
