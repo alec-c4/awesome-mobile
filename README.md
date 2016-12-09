@@ -115,6 +115,8 @@ Instruments, services and companies for mobile marketing and development
 
 * [Paypal](http://paypal.com)
 * [Stripe](http://stripe.com)
+* [Adyen](https://www.adyen.com)
+
  
 ## Podcasts
 
