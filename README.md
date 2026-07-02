@@ -48,6 +48,7 @@ Instruments, services and companies for mobile marketing and development
 * [DeltaDNA](http://www.deltadna.com)
 * [DevToDev](https://www.devtodev.com/)
 * [Dispply](http://dispply.com/)
+* [GetAppNiche](https://getappniche.com)
 * [Jeapie](https://jeapie.com)
 * [Kahuna](https://www.kahuna.com)
 * [MetricsCat](http://metricscat.com)
