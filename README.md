@@ -16,6 +16,7 @@ Instruments, services and companies for mobile marketing and development
 * [Capptain](http://www.capptain.com/)
 * [Flurry](http://www.flurry.com/)
 * [Game Analytics](http://www.gameanalytics.com/)
+* [GetAppNiche](https://getappniche.com/)
 * [Google Analytics](https://www.google.ru/analytics/)
 * [Heap Analytics](https://heapanalytics.com)
 * [InstallTracker](http://installtracker.com)
