@@ -57,6 +57,7 @@ Instruments, services and companies for mobile marketing and development
 * [TapStream](https://tapstream.com)
 * [Urban Airship](http://urbanairship.com)
 * [SplitMetrics](http://splitmetrics.com/)
+* [Shotlingo — Screenshot Aspect Ratios](https://shotlingo.com/tools/screenshot-aspect-ratios) - free reference for every App Store, Google Play, and social screenshot aspect ratio, grouped by shared design canvas with copy-paste CSS values. No signup.
 
 ### App Reviews
 
