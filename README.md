@@ -11,6 +11,8 @@ Instruments, services and companies for mobile marketing and development
 
 ### Analytics
 
+* [AdMapix](https://www.admapix.com/) - Ad intelligence and app-market research for mobile growth teams, with indexed competitor creative search, app rankings, and directional download and revenue estimates by market.
+
 * [AppSee](http://www.appsee.com/)
 * [Apsalar](https://apsalar.com)
 * [Capptain](http://www.capptain.com/)
