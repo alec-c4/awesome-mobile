@@ -120,6 +120,11 @@ Instruments, services and companies for mobile marketing and development
 * [Adyen](https://www.adyen.com)
 
  
+### Live updates
+
+* [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps
+
+ 
 ## Podcasts
 
 ### Russian podcasts
