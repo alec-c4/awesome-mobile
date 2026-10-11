@@ -58,6 +58,7 @@ Instruments, services and companies for mobile marketing and development
 * [Urban Airship](http://urbanairship.com)
 * [SplitMetrics](http://splitmetrics.com/)
 * [Shotlingo — Screenshot Aspect Ratios](https://shotlingo.com/tools/screenshot-aspect-ratios) - free reference for every App Store, Google Play, and social screenshot aspect ratio, grouped by shared design canvas with copy-paste CSS values. No signup.
+* [Ignura](https://ignura.com) - a launch studio for consumer apps, prosumer tools and B2B: launch films, App Store screenshots, landing pages, UGC.
 
 ### App Reviews
 
