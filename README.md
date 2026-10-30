@@ -58,6 +58,7 @@ Instruments, services and companies for mobile marketing and development
 * [Urban Airship](http://urbanairship.com)
 * [SplitMetrics](http://splitmetrics.com/)
 * [Shotlingo — Screenshot Aspect Ratios](https://shotlingo.com/tools/screenshot-aspect-ratios) - free reference for every App Store, Google Play, and social screenshot aspect ratio, grouped by shared design canvas with copy-paste CSS values. No signup.
+* [App Store Localizer](https://asolocalization.com) - paste an App Store URL to get translated screenshots plus localized title, subtitle, description, and keywords for 20+ locales. One-time pricing, no subscription.
 
 ### App Reviews
 
