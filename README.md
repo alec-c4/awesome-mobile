@@ -45,7 +45,7 @@ Instruments, services and companies for mobile marketing and development
 
 * [Adjust](https://www.adjust.com)
 * [AppAnnie](https://www.appannie.com)
-* [AppScreen](https://appscreen.pro) - browser editor for App Store and Google Play screenshots with iPhone, iPad and Android device frames; free tier, Pro is a one-time purchase.
+* [AppScreen](https://appscreen.pro) - free browser editor for App Store and Google Play screenshots with iPhone and Android device frames, captions and backgrounds.
 * [AppsFlyer](http://www.appsflyer.com)
 * [DeltaDNA](http://www.deltadna.com)
 * [DevToDev](https://www.devtodev.com/)
