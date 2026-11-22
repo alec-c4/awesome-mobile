@@ -74,6 +74,7 @@ Instruments, services and companies for mobile marketing and development
 * [Appfollow](http://appfollow.ru)
 * [LaunchKit](https://launchkit.io)
 * [MetricsCat](http://metricscat.com)
+* [Apple App Store Reviews API](https://apify.com/johnvc/apple-app-store-reviews-api) - pulls App Store reviews for iOS and macOS apps (rating, title, text, version, date) as JSON for review monitoring. Paid per result, hosted on Apify.
 
 ### Traffic
 
