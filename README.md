@@ -58,6 +58,7 @@ Instruments, services and companies for mobile marketing and development
 * [Urban Airship](http://urbanairship.com)
 * [SplitMetrics](http://splitmetrics.com/)
 * [Shotlingo — Screenshot Aspect Ratios](https://shotlingo.com/tools/screenshot-aspect-ratios) - free reference for every App Store, Google Play, and social screenshot aspect ratio, grouped by shared design canvas with copy-paste CSS values. No signup.
+* [GamerScroll](https://gamerscroll.com/) - free, no-login site that saves App Store and Google Play top-grossing/free charts (US, Japan, Korea, Taiwan, China) and Steam concurrent players every day, with per-game rank history, country × store chart pages, and embeddable rank badges.
 
 ### App Reviews
 
